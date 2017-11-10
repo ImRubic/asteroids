@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ImRubic/asteroids.git"
+    "url": "git+https://github.com/ImRubic/asteroids/build.git"
   },
   "author": "Chris Boschert",
   "license": "THE UNLICENSE",
   "bugs": {
     "url": "https://github.com/ImRubic/asteroids/issues"
   },
-  "homepage": "https://github.com/ImRubic/asteroids#readme",
+  "homepage": "https://github.com/ImRubic/asteroids/build",
   "devDependencies": {
     "babel-loader": "^7.1.2",
     "babel-preset-es2015": "^6.24.1",
